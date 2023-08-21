@@ -1,0 +1,6 @@
+IGUI_FR = {
+	IGUI_perks_Smithing = "Forge",
+	IGUI_CraftCategory_Smithing = "Forge",
+    IGUI_FireStarted = "Feu allumé",
+    IGUI_Heat = "Chaleur",
+}

@@ -1,0 +1,7 @@
+ContextMenu_CN = {
+	ContextMenu_AddLogs = "Add Logs",
+	ContextMenu_FurnaceInfo = "Furnace Info",
+	ContextMenu_LightStoneFurnace = "Light Stone Furnace",
+	ContextMenu_RemoveLogs = "Remove Logs",
+	ContextMenu_Take_Barrel = "Take Barrel",
+}

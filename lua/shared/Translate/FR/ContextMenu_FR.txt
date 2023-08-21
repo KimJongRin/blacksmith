@@ -1,0 +1,7 @@
+ContextMenu_FR = {
+	ContextMenu_AddLogs = "Ajouter des bûches",
+	ContextMenu_FurnaceInfo = "Infos du fourneau",
+	ContextMenu_LightStoneFurnace = "Allumer le fourneau",
+	ContextMenu_RemoveLogs = "Retirer les bûches",
+	ContextMenu_Take_Barrel = "Prendre le baril",
+}

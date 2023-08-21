@@ -1,0 +1,6 @@
+IGUI_PTBR = {
+	IGUI_perks_Smithing = "Ferreiro",
+
+    IGUI_FireStarted = "Fogo Aceso",
+    IGUI_Heat = "Calor",
+}

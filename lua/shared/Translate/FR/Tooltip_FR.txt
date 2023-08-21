@@ -1,0 +1,6 @@
+Tooltip_FR = {
+	-- Smithing tooltip
+	Tooltip_BookTitle_Smithing = "Forge",
+	Tooltip_smith_AddLogs = "Ajoutez 5 bûches afin de les transformer en charbon, une fois que c'est fait, allumez le baril avec un briquet/allumettes et attendez",
+	Tooltip_smith_CharcoalProgression = "Transformation en charbon : ",
+}

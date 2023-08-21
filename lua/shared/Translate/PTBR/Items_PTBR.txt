@@ -1,0 +1,20 @@
+Items_PT = {
+  DisplayName_Advanced_Smithing = "Ferreiro Vol. 3",
+  DisplayNameSmithing_for_Beginners = "Ferreiro Vol. 1",
+  DisplayNameSmithing_for_Intermediates = "Ferreiro Vol. 2",
+  DisplayName_Expert_Smithing = "Ferreiro Vol. 4",
+  DisplayName_Master_Smithing = "Ferreiro Vol. 5",
+
+	DisplayName_Iron_Ingot = "Linguote de Metal",
+	DisplayName_Metal_Baseball_Bat = "Taco de Beisebol de Metal",
+	DisplayName_The_Smither's_Backyard = "O Quintal do Ferreiro",
+
+	DisplayName_The_Smithing_Magazine_Vol._5 = "Revista de Forja Vol. 5",
+	DisplayName_The_Smithing_Magazine_Vol._6 = "Revista de Forja Vol. 6",
+	DisplayName_The_Smithing_Magazine_Vol._7 = "Revista de Forja Vol. 7",
+	DisplayName_The_Smithing_Magazine_Vol._8 = "Revista de Forja Vol. 8",
+	DisplayName_The_Smithing_Magazine_Vol._9 = "Revista de Forja Vol. 9",
+	DisplayName_The_Smithing_Magazine_Vol._10 = "Revista de Forja Vol. 10",
+	DisplayName_The_Smithing_Magazine_Vol._11 = "Revista de Forja Vol. 11",
+	DisplayName_The_Smithing_Magazine_Vol._12 = "Revista de Forja Vol. 12",
+}

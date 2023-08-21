@@ -1,0 +1,6 @@
+Tooltip_PTBR = {
+	-- Smithing tooltip
+	Tooltip_BookTitle_Smithing = "Ferreiro",
+	Tooltip_smith_AddLogs = "Adicione 5 troncos para transformar em carvão, depois acenda o fogo e espere",
+	Tooltip_smith_CharcoalProgression = "Progressão do Carvão: ",
+}

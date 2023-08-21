@@ -1,0 +1,11 @@
+Recipes_PTBR = {
+  Recipe_Make_Can_Opener = "Criar Abridor de Lata",
+  Recipe_Make_Bread_Knife = "Criar Faca de Pão",
+  Recipe_Make_Griddle_Pan = "Criar Grelha de Ferro",
+  Recipe_Make_Ice_Pick = "Criar Picador de Gelo",
+  Recipe_Make_Jar_Lid = "Criar Tampa de Pote",
+  Recipe_Make_Kettle = "Criar Chaleira",
+  Recipe_Make_Small_Sheet_Metal = "Criar Placa de Metal Pequena",
+  Recipe_Make_Screwdriver = "Criar Chave de Fenda",
+  Recipe_Make_Tent_Peg = "Criar Cavilha",
+}

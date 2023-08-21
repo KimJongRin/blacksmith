@@ -1,0 +1,5 @@
+IGUI_CN = {
+IGUI_FireStarted = "点火",
+IGUI_Heat = "加热",
+IGUI_CraftCategory_Smithing = "锻造",
+}

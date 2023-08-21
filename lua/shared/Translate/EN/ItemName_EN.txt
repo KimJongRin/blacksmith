@@ -1,0 +1,7 @@
+ItemName_EN = {
+    ItemName_filcher.BookSmithing1 = "Smithing Vol. 1",
+    ItemName_filcher.BookSmithing2 = "Smithing Vol. 2",
+    ItemName_filcher.BookSmithing3 = "Smithing Vol. 3",
+    ItemName_filcher.BookSmithing4 = "Smithing Vol. 4",
+    ItemName_filcher.BookSmithing5 = "Smithing Vol. 5",
+}

@@ -1,0 +1,6 @@
+IGUI_EN = {
+	IGUI_perks_Smithing = "Smithing",
+
+    IGUI_FireStarted = "Fire Started",
+    IGUI_Heat = "Heat",
+}

@@ -1,0 +1,6 @@
+Tooltip_EN = {
+	-- Smithing tooltip
+	Tooltip_BookTitle_Smithing = "Smithing",
+	Tooltip_smith_AddLogs = "Add 5 logs to turn into charcoal, once done, lit up the barrel with a lighter and wait",
+	Tooltip_smith_CharcoalProgression = "Charcoal Progression: ",
+}

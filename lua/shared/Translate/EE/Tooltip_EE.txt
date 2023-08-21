@@ -1,0 +1,7 @@
+Tooltip_EE = {
+	-- Item tooltip
+
+	-- Crafting tooltip
+	Tooltip_craft_MeatSalterDesc = "Makes food salty ",
+	Tooltip_HeadItem = "",
+}

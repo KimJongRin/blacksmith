@@ -1,0 +1,7 @@
+ContextMenu_PTBR = {
+	ContextMenu_AddLogs = "Adicionar Troncos",
+	ContextMenu_FurnaceInfo = "Detalhes da Fornalha",
+	ContextMenu_LightStoneFurnace = "Acender Fornalha de Pedra",
+	ContextMenu_RemoveLogs = "Remover Troncos",
+	ContextMenu_Take_Barrel = "Pegar Tambor",
+}
